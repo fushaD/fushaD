@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Fusha Dev
 
 <!--
 **fushaD/fushaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fushaD&label=Profile%20views&color=0e75b6&style=flat" alt="fushaD" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fushaD" alt="fushaD" /></a> </p>
+
